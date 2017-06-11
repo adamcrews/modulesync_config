@@ -1,13 +1,14 @@
 # ModuleSync Configs
 
-[![Build Status](https://travis-ci.org/voxpupuli/modulesync_config.svg?branch=master)](https://travis-ci.org/voxpupuli/modulesync_config)
+[![Build Status](https://travis-ci.org/adamcrews/modulesync_config.svg?branch=master)](https://travis-ci.org/adamcrews/modulesync_config)
 
-Module sync configurations for Vox Pupuli Modules
+Module sync configurations for Adam Crews' Modules
+Original modulesync_config has been forked from https://github.com/voxpupuli/modulesync_config.git
 
 ## How to use it
 
 ```bash
-git clone https://github.com/voxpupuli/modulesync_config.git
+git clone https://github.com/adamcrews/modulesync_config.git
 cd modulesync_config
 git tag -l
 git checkout X.X.X # checkout latest tag
